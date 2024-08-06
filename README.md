@@ -1,6 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi,I'm Uzair Shaikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,unity,stackoverflow,vscode&theme=dark&perline=15)
+
+
+## 🔥 Streak Stats
+<p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=Uzair0331&theme=radical' alt="streaks"  /></p>
+
 
 <!--
 **Uzair0331/Uzair0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
