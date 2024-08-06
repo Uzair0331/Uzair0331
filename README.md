@@ -1,5 +1,7 @@
 ## Hi there 👋
-## 🔭 I’m currently working on
+
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,unity,stackoverflow,vscode&theme=dark&perline=15)
+
 <!--
 **Uzair0331/Uzair0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
