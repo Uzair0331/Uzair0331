@@ -1,8 +1,7 @@
 <h1 align="center">Hi,I'm Uzair Shaikh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🔧 Technologies
-<p align="center">
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,unity,stackoverflow,vscode&theme=dark&perline=15)</p>
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,unity,stackoverflow,vscode&theme=dark&perline=15
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Editor;" alt="Typing SVG" />
 
@@ -24,11 +23,11 @@
     </td>
   </tr>
 </table>
-
-</div>
 <img src="https://github-readme-stats.vercel.app/api?username=Uzair0331&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzair0331&theme=highcontrast&hide_border=true">
+</div>
+
 
 <!--
 **Uzair0331/Uzair0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
