@@ -3,11 +3,29 @@
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,unity,stackoverflow,vscode&theme=dark&perline=15)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Editor;" alt="Typing SVG" />
 
+</p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src='https://github-readme-streak-stats.herokuapp.com/?user=Uzair0331&theme=radical' alt="streaks"  /></p>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 
+</div>
 
 <!--
 **Uzair0331/Uzair0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
