@@ -17,30 +17,7 @@
 
 ## 🔥 Streak Stats
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.instagram.com/im_uxair001/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://facebook.com/kenan.gain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/KenanGain" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square" alt="Kenan Gain">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <br>
 
