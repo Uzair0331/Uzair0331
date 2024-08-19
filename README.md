@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+      <a href="https://www.instagram.com/im_uxair001/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square" alt="knightgamer87">
       </a>
     </td>
