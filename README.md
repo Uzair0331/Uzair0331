@@ -15,7 +15,6 @@
 
 </p>
 
-## 🔥 Streak Stats
 <div align="center">
 
 
